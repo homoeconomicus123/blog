@@ -1,0 +1,23 @@
+
+body {background-color: cornsilk
+  ;
+color:black;
+}
+
+hr {
+border-style: dotted none none;
+width: 50%;
+height: 0;
+border-color: black;
+border-width:5px;}
+
+
+h1 {color:red;
+font-family: "Lucida handwriting", cursive;
+font-stretch: ultra-expanded;
+}
+
+h2{color:red;
+font-family: Arial, sans-serif;
+font-style: normal;
+font-stretch: ultra-expanded;}
